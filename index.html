@@ -1,0 +1,51 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+ <script language="javascript">
+      function check()
+      {
+        if((document.getElementById("dno").value==""))
+          {alert("Please enter demandno!");
+        
+        return false;}
+        else
+        {
+          
+
+          document.getElementById("demandno").submit();
+        }
+      }
+</script>
+<style>
+.drop-shadow {
+  position:relative;
+  color:white;
+  float:left;
+  width:45%;
+ height:150px;
+  margin:10em 350px 10em;
+  padding:1em;
+  background:#042447;
+}
+  .shadow (0 1px 4px rgba(3, 0, 10, 0.3)e(',') 0 0 40px rgba(5, 0, 10, 0.1) inset);
+  &:before, &:after {
+    content:"";
+    position:absolute;
+    z-index:-2;
+  }
+  
+</style>
+
+</head>
+<body style="background:#DCDCE0; font-size:20px;">
+<form id="demandno" action="result.jsp" method="post" onsubmit="return check()">
+<div id="container">
+  <div class="drop-shadow lifted">
+ Demand Number: <input type="text" id="dno" name="dno" style="width:40%;background-color:white;color:#042447; padding: 12px 20px; margin: 8px 0; box-sizing: border-box;">
+ <input type="submit" value="Go" style="background-color:white;color=black;width:40px; height:40px;">
+  </div>
+</div>
+</form>
+</body>
+
+</html>
