@@ -13,4 +13,4 @@ Easy access to storing and retrieval of information regarding expiry of various 
 
 Used - Java Server Pages, HTML and MySQL.
 
-Team:  1.Farah Uzma  2.Jaswanth Reddy  3.Sherin Mehak  4.Akhil Reddy
+Team:  1. Farah Uzma  2. Jaswanth Reddy  3. Sherin Mehak  4. Akhil Reddy
