@@ -1,15 +1,7 @@
 # Earnest-Money-Deposit-Management
 
 
-Earnest money deposited by each tenderer to enable the buyer (DRDL) to ensure that a tenderer does not refuse to execute the work if it is awarded to him. It is a guarantee for due performance of the contract. 
-Rate of EMD deposit varies from one organization to another. It also varies with value of work. Normally EMD is 2% or 2.5% of estimated cost of tender. 
-Earnest money of successful tender can be adjusted against the security deposit required to be furnished by him. 
-Earnest money of all the unsuccessful tenders should be returned as early as possible after the award of contract to successful bidder/bidders.
-The purpose of this procedure is to define a system for planning and controls of activities relating to monitor the EMD for expiry and to provide alerts to user at least 20 days before the expiry of the EMD and also to record and return the EMD’s to unsuccessful bidders.
-Our aim is to design a user interactive application that allows you to manage the EMD given by the vendors. 
-This application is designed with special emphasis in the requirements of an organization. 
-Moreover, actual work of this application starts when the vendors respond, the data of the received quotations is stored in the database. 
-Easy access to storing and retrieval of information regarding expiry of various EMD’s of the vendors can be obtained.
+Earnest money deposited by each tenderer to enable the buyer (DRDL) to ensure that a tenderer does not refuse to execute the work if it is awarded to him. It ensures that the contract will be performed as agreed. Organizations differ in the rate at which they deposit their EMDs. Also, it varies with the value of the work. EMD is typically 2% or 2.5% of the estimated cost of a tender. If the tender is successful, the earnest money can be applied towards the security deposit in which one is required to provide. All bidders with unsuccessful bids should have the earnest money returned as soon as possible after the contract is awarded to the successful bidder/bidders. As part of this procedure, we will define a system for planning and controlling activities relating to monitoring the EMD for expiry, informing the users 20 days before it expires, and by recording and returning the EMD to unsuccessful bidders. We aim to develop a user-interactive application that will allow you to manage the EMD given by the vendors. In designing this application, special attention is paid to the requirements of an organization. Additionally, the application begins to work after receiving responses from vendors; quotation data is stored in a database. Information about the expiry of various EMDs of vendors can be stored and retrieved easily.
 
 Used - Java Server Pages, HTML and MySQL.
 
