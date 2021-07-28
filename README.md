@@ -7,6 +7,6 @@ As part of this procedure, we will define a system for planning and controlling 
 We aim to develop a user-interactive application that will allow DRDL to manage the EMD given by the vendors. In designing this application, special attention is paid to the requirements of the organization. 
 Additionally, the application begins to work after receiving responses from vendors; quotation data is stored in a database. Information about the expiry of various EMDs of vendors can be stored and retrieved easily.
 
-Used - Java Server Pages, HTML and MySQL.
+Used - Java, Java Server Pages, HTML and MySQL.
 
 Team:  1. Farah Uzma  2. Jaswanth Reddy  3. Sherin Mehak  4. Akhil Reddy
